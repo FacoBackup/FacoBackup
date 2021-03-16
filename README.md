@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/hsedaqat1378">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacoBackup&layout=compact&theme=material-palenight&langs_count=12" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=FacoBackup&show_icons=true&include_all_commits=true&theme=material-palenight" />
   </a>
 </p>
 
