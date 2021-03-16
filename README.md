@@ -1,4 +1,4 @@
-### Hello There 👋
+### Hello There 
 
 <div align="center">
 
@@ -12,3 +12,5 @@
   </a>
 </p>
 
+How to reach me:
+  - Discord: morshu_non_rtx#8805
