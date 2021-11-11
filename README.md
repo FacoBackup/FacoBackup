@@ -1,4 +1,4 @@
-### Hello There 
+## Hello There 
 
 <div align="center">
 
@@ -12,5 +12,9 @@
   </a>
 </p>
 
-How to reach me:
+[![npm latest package](https://img.shields.io/npm/v/@mui/material/latest.svg)](https://www.npmjs.com/package/@mui/material)
+[![npm downloads](https://img.shields.io/npm/dm/@mui/material.svg)](https://www.npmjs.com/package/@mui/material)
+##### Documentação em desenvolvimento: https://mfc-documentation-vercel.vercel.app/en
+
+##### Como entrar em contato (How to reach me):
   - Discord: morshu_non_rtx#8805
