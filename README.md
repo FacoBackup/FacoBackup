@@ -12,8 +12,8 @@
   </a>
 </p>
 
-[![npm latest package](https://img.shields.io/npm/v/@mui/material/latest.svg)](https://www.npmjs.com/package/@mui/material)
-[![npm downloads](https://img.shields.io/npm/dm/@mui/material.svg)](https://www.npmjs.com/package/@mui/material)
+[![npm latest package](https://img.shields.io/npm/v/mfc-core/latest.svg)](https://www.npmjs.com/package/mfc-core)
+[![npm downloads](https://img.shields.io/npm/dm/mfc-core)](https://www.npmjs.com/package/mfc-core)
 ##### Documentação em desenvolvimento: https://mfc-documentation-vercel.vercel.app/en
 
 ##### Como entrar em contato (How to reach me):
