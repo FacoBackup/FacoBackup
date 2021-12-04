@@ -1,12 +1,15 @@
-### Alguns dados
+### Github stats:
 
 <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px">
   
-[![Github Status](https://github-readme-stats.vercel.app/api?username=FacoBackup&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/FacoBackup/FacoBackup)
+> [![Github Status](https://github-readme-stats.vercel.app/api?username=FacoBackup&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/FacoBackup/FacoBackup)  
+>   <a href="https://github.com/FacoBackup">
+> <img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacoBackup&layout=compact&theme=material-palenight&langs_count=12" />
+> </a>
 
-  <a href="https://github.com/FacoBackup">
-    <img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacoBackup&layout=compact&theme=material-palenight&langs_count=12" />
-  </a>
+
+
+
 
 </div>
 
@@ -14,39 +17,66 @@
 
 > Prazer, meu nome é Gustavo Micael Barbosa Roque, sou um desenvolvedor web fullstack atualmente trabalhando na [Agência Espacial Brasileira](https://www.gov.br/aeb/pt-br) cursando *Engenharia da computação* no IESB.
 
+### Onde vivo ?
+
+> **Brasília**, Brasil.
 
 
-### Linguagens/frameworks favoritos
- - ***Python***
-   - Flask.
-   - SQLalchemy.
-   - Django.
- - ***Javascript***
-   - React.
-   - NextJS.
-   - Express.
+### Experiência em:
+- Desenvolvimento
+  - Micro-serviços
+  - APIs Restful e SOAP. 
+  - UI / UX.
+- Linguagens e frameworks
+  - SQL.
+  - Python.
+      - Flask.
+      - SQLalchemy.
+      - Django.
+  - Javascript.
+      - React.
+      - NextJS.
+      - Express.
+  - HTML / CSS.
+- Outros
+  - Markdown.
+  - RegEx.
+  - Git.
+  - Shell.
+  - Linux.
 
-### Conhecimentos
- - SQL.
- - Markdown.
- - RegEx.
- - APIs Rest e SOAP.
- - Python.
- - Javascript.
- - HTML / CSS.
- - Entre outros...
+> Dois anos de experiência em desenvolvimento Fullstack, multiplos projetos em andamento e alguns em produção.
 
-### Alguns projetos bacanas
-- [***mfc-core***](https://github.com/FacoBackup/mfc-core) - Coleção de componentes React. 
-  > [![npm latest package](https://img.shields.io/npm/v/mfc-core/latest.svg)](https://www.npmjs.com/package/mfc-core) [![npm downloads](https://img.shields.io/npm/dm/mfc-core)](https://www.npmjs.com/package/mfc-core)
 
-- [***mfc-charts***](https://github.com/FacoBackup/mfc-charts) - Gráficos. 
+### Pacotes disponíveis:
+- [***mfc-core***](https://github.com/FacoBackup/mfc-core) - Coleção de componentes React [**Descontinuado**]. 
+  > [![npm latest package](https://img.shields.io/npm/v/mfc-core/latest.svg)](https://www.npmjs.com/package/mfc-core)
+  > 
+  > [![npm downloads](https://img.shields.io/npm/dm/mfc-core)](https://www.npmjs.com/package/mfc-core)
+
+### Pacotes em desenvolvimento:
+- [***fabric-ui***](https://github.com/FacoBackup/fabric-ui) - Rework dos componentes do pacote *mfc-core*.
   > Em breve no NPM.
   
-- [***markedown***](https://github.com/FacoBackup/markedown) - Processador Markdown para React.
+- [***fabric-ui-charts***](https://github.com/FacoBackup/fabric-ui-charts) - Componentes de gráficos para React.
+  > Em breve no NPM.
+
+- [***fabric-ui-markedown***](https://github.com/FacoBackup/fabric-ui-markedown) - Processador Markdown para React.
   > Em breve no NPM.
 
 
-### Como entrar em contato
+### Templates em desenvolvimento:
+
+- ***python-api-gateway*** - Template API gateway usando `Python Flask`, `SQLalchemy`  e autenticação com `LDAP` e `pyJWT`.
+  > Disponível em breve.
+
+- ***flask-api*** - Template API para serviços usando `Python Flask` e `SQLalchemy`.
+  > Disponível em breve. 
+
+### Documentações em andamento:
+- [***mfc-core*** [Descontinuado]](https://mfc-documentation-vercel.vercel.app/)
+- [***Fabric-UI***](https://fabric-ui.vercel.app/)
+
+### Como entrar em contato:
   - **Discord**: 
     - morshu_non_rtx#8805
