@@ -67,11 +67,8 @@
 
 ### Templates em desenvolvimento:
 
-- ***python-api-gateway*** - Template API gateway usando `Python Flask`, `SQLalchemy`  e autenticação com `LDAP` e `pyJWT`.
-  > Disponível em breve.
-
-- ***flask-api*** - Template API para serviços usando `Python Flask` e `SQLalchemy`.
-  > Disponível em breve. 
+- [***not-only-gateway***](https://github.com/not-only-gateway) 
+  > Coleção de micro-serviços que fornecem controle sobre multiplos serviços.
 
 ### Documentações em andamento:
 - [***mfc-core*** [Descontinuado]](https://mfc-documentation-vercel.vercel.app/)
