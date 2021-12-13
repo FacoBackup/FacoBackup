@@ -67,8 +67,11 @@
 
 ### Templates em desenvolvimento:
 
-- [***not-only-gateway***](https://github.com/not-only-gateway) 
-  > Coleção de micro-serviços que fornecem controle sobre multiplos serviços.
+- [***api-gateway***](https://github.com/not-only-gateway) 
+  > Coleção de micro-serviços que fornecem controle sobre apis de multiplos serviços/sistemas.
+
+- [***flask_utils***](https://github.com/FacoBackup/flask_utils.git) 
+  > Utilitários para desenvolvimento com flask e sqlalchemy.
 
 ### Documentações em andamento:
 - [***mfc-core*** [Descontinuado]](https://mfc-documentation-vercel.vercel.app/)
