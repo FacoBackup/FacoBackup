@@ -6,11 +6,6 @@
 >   <a href="https://github.com/FacoBackup">
 > <img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacoBackup&layout=compact&theme=material-palenight&langs_count=12" />
 > </a>
-
-
-
-
-
 </div>
 
 ### Quem sou eu ?
@@ -22,49 +17,27 @@
 > **Brasília**, Brasil.
 
 
-### Experiência em:
-- Desenvolvimento
-  - Micro-serviços
-  - APIs Restful e SOAP. 
-  - UI / UX.
-- Linguagens e frameworks
-  - SQL.
-  - Python.
-      - Flask.
-      - SQLalchemy.
-      - Django.
-  - Javascript.
-      - React.
-      - NextJS.
-      - Express.
-  - HTML / CSS.
-- Outros
-  - Markdown.
-  - RegEx.
-  - Git.
-  - Shell.
-  - Linux.
-
-> Dois anos de experiência em desenvolvimento Fullstack, multiplos projetos em andamento e alguns em produção.
-
+### Experiência:
+| Área     | Conhecimentos                                             |
+|----------|-----------------------------------------------------------|
+| Frontend | CSS - React - HTML - Javascript - Next                    |
+| Backend  | Python/Flask e Django - Express.JS - Kotlin/ktor (básico) |
+| Misc     | SQL - Markdown - Linux - Git - Shell - RegEX              |
+| Outros   | Microserviços - APIs Restful e SOAP                       |
 
 ### Pacotes disponíveis:
+- [***fabric-ui***](https://github.com/fabric-ui/fabric-ui) - Rework dos componentes do pacote *mfc-core*.
+  > [![npm latest package](https://img.shields.io/npm/v/@f-ui/core/latest.svg)](https://www.npmjs.com/package/@f-ui/core)
+  
+- [***fabric-ui-charts***](https://github.com/fabric-ui/fabric-ui-charts) - Componentes de gráficos para React.
+  > [![npm latest package](https://img.shields.io/npm/v/@f-ui/charts/latest.svg)](https://www.npmjs.com/package/@f-ui/charts)
+  >
+- [***fabric-ui-markedown***](https://github.com/fabric-ui/fabric-ui-markedown) - Processador Markdown para React.
+  > [![npm latest package](https://img.shields.io/npm/v/@f-ui/markdown/latest.svg)](https://www.npmjs.com/package/@f-ui/markdown)
+
 - [***mfc-core***](https://github.com/FacoBackup/mfc-core) - Coleção de componentes React [**Descontinuado**]. 
   > [![npm latest package](https://img.shields.io/npm/v/mfc-core/latest.svg)](https://www.npmjs.com/package/mfc-core)
-  > 
-  > [![npm downloads](https://img.shields.io/npm/dm/mfc-core)](https://www.npmjs.com/package/mfc-core)
-
-### Pacotes em desenvolvimento:
-- [***fabric-ui***](https://github.com/FacoBackup/fabric-ui) - Rework dos componentes do pacote *mfc-core*.
-  > Em breve no NPM.
   
-- [***fabric-ui-charts***](https://github.com/FacoBackup/fabric-ui-charts) - Componentes de gráficos para React.
-  > Em breve no NPM.
-
-- [***fabric-ui-markedown***](https://github.com/FacoBackup/fabric-ui-markedown) - Processador Markdown para React.
-  > Em breve no NPM.
-
-
 ### Templates em desenvolvimento:
 
 - [***api-gateway***](https://github.com/not-only-gateway) 
@@ -74,7 +47,6 @@
   > Utilitários para desenvolvimento com flask e sqlalchemy.
 
 ### Documentações em andamento:
-- [***mfc-core*** [Descontinuado]](https://mfc-documentation-vercel.vercel.app/)
 - [***Fabric-UI***](https://fabric-ui.vercel.app/)
 
 ### Como entrar em contato:
