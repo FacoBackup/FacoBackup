@@ -9,7 +9,7 @@
 </div>
 
 ### Highlight
-<a href="https://engine-demo.vercel.app/">canvas-3d-engine DEMO</a>
+<a href="https://engine-demo.vercel.app/">Projection-engine demo interativa</a>
 
 ### Quem sou eu ?
 
