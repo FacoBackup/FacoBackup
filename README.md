@@ -8,8 +8,12 @@
 > </a>
 </div>
 
-### Highlight
-<a href="https://engine-demo.vercel.app/">Projection-engine demo interativa</a>
+### Highlights
+[Projection engine demo interativa (**v1**)](https://engine-demo.vercel.app/)
+> 3D engine escrita em javascript + ReactJS sem a utilização de alguma API gráfica.
+
+[Projection engine (**next**)](https://github.com/projection-engine/pj-engine-webgl)
+> Editor e motor gráfico 3D escrito em javascript + ReactJS + nextJS + webGL.
 
 ### Quem sou eu ?
 
