@@ -1,12 +1,13 @@
 
 <h1>
 <p align = "center">
-   Olá, sou Gustavo Roque
+   Olá, sou [Gustavo Roque](https://facobackup-profile.vercel.app/)
 </p>
 </h1>
 <p align = "center">
   Desenvolvedor web, programador gráfico e estudante de <b>engenharia da computação</b> no 7 semestre.
 </p>
+
 
 ---
 
@@ -42,20 +43,16 @@
 
 --- 
 
-## Projetos
-<br/>
+## Projetos 
 <a href="https://engine-demo.vercel.app/">
 <img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=projection-engine&repo=editor&theme=radical"/>
-</a>
-<br/>
+</a> 
 <a href="https://github.com/projection-engine">
 <img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=projection-engine&repo=editor&theme=radical"/>
-</a>
-<br/>
+</a> 
 <a href="https://github.com/fabric-ui">
 <img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=fabric-ui&repo=core&theme=radical"/>
-</a>
-<br/>
+</a> 
 <a href="https://github.com/fabric-ui">
 <img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=fabric-ui&repo=markdown&theme=radical"/>
 </a>
