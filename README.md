@@ -44,19 +44,24 @@
 --- 
 
 ## Projetos 
-<a href="https://engine-demo.vercel.app/">
-<img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=projection-engine&repo=editor&theme=radical"/>
-</a> 
-<a href="https://github.com/projection-engine">
-<img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=projection-engine&repo=editor&theme=radical"/>
-</a> 
-<a href="https://github.com/fabric-ui">
-<img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=fabric-ui&repo=core&theme=radical"/>
-</a> 
-<a href="https://github.com/fabric-ui">
-<img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=fabric-ui&repo=markdown&theme=radical"/>
-</a>
 
+- Demo de rasterização
+   >  <a href="https://engine-demo.vercel.app/">
+   >  <img width = "500px" height = "200px" src = "LOGO.png"/>
+   >  </a> 
+- Projection Engine
+   >  <a href="https://github.com/projection-engine">
+   >  <img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=projection-engine&repo=editor&theme=radical"/>
+   >  </a> 
+- React UI components:
+   > <a href="https://github.com/fabric-ui">
+   > <img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=fabric-ui&repo=core&theme=radical"/>
+   > </a> 
+- Markdown processor:
+   > <a href="https://github.com/fabric-ui">
+   > <img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=fabric-ui&repo=markdown&theme=radical"/>
+   > </a>
+      
 ---
 
 ## Contato
