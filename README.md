@@ -30,13 +30,13 @@
 <br/>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Rust" width="40px" src="images/rs.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Javascript" width="40px" src="images/js.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="OpenGL/WebGL" width="40px" src="images/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Webassembly" width="40px" src="images/wasm.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Python" width="40px" src="images/py.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="React" width="40px" src="images/react.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Electron" width="40px" src="images/electron.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Rust" width="40px" src="rs.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Javascript" width="40px" src="js.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="OpenGL/WebGL" width="40px" src="opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Webassembly" width="40px" src="wasm.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Python" width="40px" src="py.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="React" width="40px" src="react.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Electron" width="40px" src="electron.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacoBackup&layout=compact&theme=material-palenight&langs_count=12" />
 
