@@ -1,64 +1,67 @@
 
-### Quem sou eu ?
+<h1>
+<p align = "center">
+   Olá, sou Gustavo Roque
+</p>
+</h1>
+<p align = "center">
+  Desenvolvedor web, programador gráfico e estudante de <b>engenharia da computação</b> no 7 semestre.
+</p>
 
-> Prazer, meu nome é Gustavo Micael Barbosa Roque, sou um desenvolvedor web fullstack atualmente trabalhando na [Agência Espacial Brasileira](https://www.gov.br/aeb/pt-br) cursando *Engenharia da computação* no IESB.
+---
 
-### Onde vivo ?
+## Sobre mim:
+- Desenvolvedor web full-stack com 2 anos de experiência.
+- Desenvolvedor da [Fabric UI](https://github.com/fabric-ui) (Módulos de componentes para ReactJS).
+- Programador gráfico a 1 ano.
+- Desenvolvedor de uma [demo simples usando os fundamentos de programação gráfica](https://engine-demo.vercel.app/).
+- Desenvolvedor da [Projection Engine](https://github.com/projection-engine)
+- Aprendendo Rust e webassembly.
 
-> **Brasília**, Brasil.
+---
 
+### Github:
 
-### Github stats:
+[![Github Status](https://github-readme-stats.vercel.app/api?username=FacoBackup&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/FacoBackup/FacoBackup)  
 
-> [![Github Status](https://github-readme-stats.vercel.app/api?username=FacoBackup&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/FacoBackup/FacoBackup)  
-> <a href="https://github.com/FacoBackup">
-> <img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacoBackup&layout=compact&theme=material-palenight&langs_count=12" />
-> </a>
+--- 
 
+### <ins>Languages and Tools:</ins>
+<br/>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Rust" width="40px" src="images/rs.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Javascript" width="40px" src="images/js.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="OpenGL/WebGL" width="40px" src="images/opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Webassembly" width="40px" src="images/wasm.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Python" width="40px" src="images/py.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="React" width="40px" src="images/react.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="Electron" width="40px" src="images/electron.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+<img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacoBackup&layout=compact&theme=material-palenight&langs_count=12" />
 
-### Highlights
+--- 
 
-[Projection engine demo interativa (**v1**)](https://engine-demo.vercel.app/)
-> 3D engine escrita em javascript + ReactJS sem a utilização de alguma API gráfica.
+## Projetos
+<br/>
+<a href="https://engine-demo.vercel.app/">
+<img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=projection-engine&repo=editor&theme=radical"/>
+</a>
+<br/>
+<a href="https://github.com/projection-engine">
+<img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=projection-engine&repo=editor&theme=radical"/>
+</a>
+<br/>
+<a href="https://github.com/fabric-ui">
+<img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=fabric-ui&repo=core&theme=radical"/>
+</a>
+<br/>
+<a href="https://github.com/fabric-ui">
+<img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=fabric-ui&repo=markdown&theme=radical"/>
+</a>
 
-[Projection engine](https://github.com/projection-engine)
-> Motor gráfico poderoso com editor construído com ElectronJS e React.
+---
 
-### Experiência:
-
-| Área                | Conhecimentos                                                                                                       |
-|---------------------|---------------------------------------------------------------------------------------------------------------------|
-| Frontend            | ReactJS - CSS - Javascript - ElectronJS |
-| Backend             | Python/Flask e Django - Express - Kotlin/ktor (básico)                                                              |
-| Outros              | Microserviços - APIs Restful e SOAP - Linux - Powershell - SQL - Markdown - Linux - Git - Shell - RegEX             |
-| Programação gráfica | OpenGL - WebGL - glsl                                                                                               |                                                                                  |
-
-### Pacotes disponíveis:
-
-- [***fabric-ui***](https://github.com/fabric-ui/fabric-ui) - Componentes para interfaces (React).
-  > [![npm latest package](https://img.shields.io/npm/v/@f-ui/core/latest.svg)](https://www.npmjs.com/package/@f-ui/core)
-
-
-- [***mfc-core***](https://github.com/FacoBackup/mfc-core) **(descontinuado)** - Coleção de componentes React.
-  > [![npm latest package](https://img.shields.io/npm/v/mfc-core/latest.svg)](https://www.npmjs.com/package/mfc-core)
-
-### Outros projetos:
-
-- [***SIS-AEB***](https://github.com/not-only-gateway)
-  > Sistemas desenvolvidos internamente na Agência espacial brasileira.
-
-- [***fabric-ui-charts***](https://github.com/fabric-ui/fabric-ui-charts) - Componentes de gráficos para React com API
-  canvas.
-  > [![npm latest package](https://img.shields.io/npm/v/@f-ui/charts/latest.svg)](https://www.npmjs.com/package/@f-ui/charts)
-
-- [***fabric-ui-markedown***](https://github.com/fabric-ui/fabric-ui-markedown) - Processador Markdown para React (90%
-  regex).
-  > [![npm latest package](https://img.shields.io/npm/v/@f-ui/markdown/latest.svg)](https://www.npmjs.com/package/@f-ui/markdown)
-
-
-- [***flask_utils***](https://github.com/FacoBackup/flask_utils.git)
-  > Utilitários para desenvolvimento com flask e sqlalchemy.
-
-### Documentações:
-
-- [***Fabric-UI***](https://fabric-ui.vercel.app/)
+## Contato
+- **Email**: gustavomicaelbarbosa@gmail.com
+- **Discord**: morshu_non_rtx#8805
