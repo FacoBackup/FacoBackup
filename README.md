@@ -26,7 +26,7 @@
 
 --- 
 
-### <ins>Languages and Tools:</ins>
+### <ins>Linguagens e ferramentas:</ins>
 <br/>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
