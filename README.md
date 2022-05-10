@@ -24,7 +24,7 @@
 
 ### Linguagens e ferramentas:
 <br/>
-<p>
+<div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="Rust" width="40px" src="rs.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="Javascript" width="40px" src="js.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@
 <img align="center" alt="Python" width="40px" src="py.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="React" width="40px" src="react.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="Electron" width="40px" src="electron.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</div>
 <img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacoBackup&layout=compact&theme=material-palenight&langs_count=12" />
 
 --- 
