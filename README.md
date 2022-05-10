@@ -43,7 +43,7 @@
 
 --- 
 
-## Projetos 
+## Highlights 
 
 - Demo de rasterização
    >  <a href="https://engine-demo.vercel.app/">
