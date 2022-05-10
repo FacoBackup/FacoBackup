@@ -1,13 +1,12 @@
 
-<h1>
-<p align = "center">
+<h1 align = "center">
+
    Olá, sou <a href="https://facobackup-profile.vercel.app/">Gustavo Roque</a>
-</p>
+
 </h1>
 <p align = "center">
   Desenvolvedor web, programador gráfico e estudante de <b>engenharia da computação</b> no 7 semestre.
 </p>
-
 
 ---
 
@@ -27,7 +26,7 @@
 
 --- 
 
-### <ins>Linguagens e ferramentas:</ins>
+### Linguagens e ferramentas:
 <br/>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,7 +42,7 @@
 
 --- 
 
-## Highlights 
+### Highlights 
 
 - Demo de rasterização
    >  <a href="https://engine-demo.vercel.app/">
@@ -64,6 +63,6 @@
       
 ---
 
-## Contato
+### Contato
 - **Email**: gustavomicaelbarbosa@gmail.com
 - **Discord**: morshu_non_rtx#8805
