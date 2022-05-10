@@ -1,9 +1,5 @@
 
-<h1 align = "center">
-
-   Olá, sou <a href="https://facobackup-profile.vercel.app/">Gustavo Roque</a>
-
-</h1>
+<h1 align = "center">Olá, sou <a href="https://facobackup-profile.vercel.app/">Gustavo Roque</a></h1>
 <p align = "center">
   Desenvolvedor web, programador gráfico e estudante de <b>engenharia da computação</b> no 7 semestre.
 </p>
