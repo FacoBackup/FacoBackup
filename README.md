@@ -7,12 +7,11 @@
 ---
 
 ## Sobre mim:
-- Desenvolvedor web full-stack com 2 anos de experiência.
+- Desenvolvedor web 
 - Desenvolvedor da [Fabric UI](https://github.com/fabric-ui) (Módulos de componentes para ReactJS).
-- Programador gráfico a 1 ano.
+- Programador gráfico 
 - Desenvolvedor de uma [demo simples usando os fundamentos de programação gráfica](https://engine-demo.vercel.app/).
 - Desenvolvedor da [Projection Engine](https://github.com/projection-engine)
-- Aprendendo Rust e webassembly.
 
 ---
 
