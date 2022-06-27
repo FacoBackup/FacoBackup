@@ -1,4 +1,3 @@
-
 <h1 align = "center">Olá, sou <a href="https://facobackup-profile.vercel.app/">Gustavo Roque</a></h1>
 <p align = "center">
   Desenvolvedor web, programador gráfico e estudante de <b>engenharia da computação</b> no 7 semestre.
@@ -7,57 +6,91 @@
 ---
 
 ## Sobre mim:
-- Desenvolvedor web 
-- Desenvolvedor da [Fabric UI](https://github.com/fabric-ui) (Módulos de componentes para ReactJS).
-- Programador gráfico 
-- Desenvolvedor de uma [demo simples usando os fundamentos de programação gráfica](https://engine-demo.vercel.app/).
-- Desenvolvedor da [Projection Engine](https://github.com/projection-engine)
+
+- Estudante de engenharia da computação no 6 período
+- Desenvolvedor web full-stack
+- Trabalho principalmente com:
+    - Javascript + ***ReactJS*** e ***ElectronJS***
+    - Python + ***flask*** e ***Django***
+    - ***OpenGL***/***WebGL***
+    - Linux
+- Entusiasta de renderização 3D e programador gráfico
 
 ---
 
 ### Github:
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=FacoBackup&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/FacoBackup/FacoBackup)  
+<table>
+<tr>
+<td>
+<img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacoBackup&layout=compact&theme=material-palenight&langs_count=12" />
+</td>
+<td>
+<img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api?username=FacoBackup&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</td>
+</tr>
+</table>
+
+
 
 --- 
 
 ### Linguagens e ferramentas:
-<br/>
-<h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Rust" width="40px" src="rs.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Javascript" width="40px" src="js.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="OpenGL/WebGL" width="40px" src="opengl.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Webassembly" width="40px" src="wasm.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Python" width="40px" src="py.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="React" width="40px" src="react.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="Electron" width="40px" src="electron.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
-</h4>
-<img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacoBackup&layout=compact&theme=material-palenight&langs_count=12" />
+
+<table>
+  <td>
+    <img align="center" alt="OpenGL" width="40px" src="https://github.com/facobackup/facobackup/blob/main/opengl.png?raw=true"/>
+  </td>
+  <td>
+    <img align="center" alt="WebGL" width="40px" src="https://github.com/facobackup/facobackup/blob/main/webgl.png?raw=true"/>
+  </td>
+  <td>
+    <img align="center" alt="Webassembly" width="40px" src="https://github.com/facobackup/facobackup/blob/main/wasm.png?raw=true"/>
+  </td>
+  <td>
+    <img align="center" alt="Javascript" width="40px" src="https://github.com/facobackup/facobackup/blob/main/js.png?raw=true"/>
+  </td>
+  <td>
+    <img align="center" alt="React" width="40px" src="https://github.com/facobackup/facobackup/blob/main/react.png?raw=true"/>
+  </td>
+  <td>
+    <img align="center" alt="Electron" width="40px" src="https://github.com/facobackup/facobackup/blob/main/electron.png?raw=true"/>
+  </td>
+  <td>
+    <img align="center" alt="Python" width="40px" src="https://github.com/facobackup/facobackup/blob/main/py.png?raw=true"/>
+  </td>
+  <td>
+    <img align="center" alt="Flask" width="40px" src="https://github.com/facobackup/facobackup/blob/main/flask.png?raw=true"/>
+  </td>
+  <td>
+    <img align="center" alt="Linux" width="40px" src="https://github.com/facobackup/facobackup/blob/main/linux.png?raw=true"/>
+  </td>
+</table>
 
 --- 
 
-### Highlights 
+### Highlights
 
-- Demo de rasterização
-   >  <a href="https://engine-demo.vercel.app/">
-   >  <img width = "500px" height = "200px" src = "LOGO.png"/>
-   >  </a> 
-- Projection Engine
-   >  <a href="https://github.com/projection-engine">
-   >  <img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=projection-engine&repo=editor&theme=radical"/>
-   >  </a> 
-- React UI components:
-   > <a href="https://github.com/fabric-ui">
-   > <img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=fabric-ui&repo=core&theme=radical"/>
-   > </a> 
-- Markdown processor:
-   > <a href="https://github.com/fabric-ui">
-   > <img width = "500px" height = "200px" src = "https://github-readme-stats.vercel.app/api/pin/?username=fabric-ui&repo=markdown&theme=radical"/>
-   > </a>
-      
+- [Demo de rasterização](https://engine-demo.vercel.app/)
+  > Projeto utilizando API Canvas 2D do HTML para rasterizar modelos 3D simples.
+- [Projection Engine](https://github.com/projection-engine)
+  > Motor gráfico completo em desenvolvimento utilizando ReactJS + ElectronJS e WebGL2.
+- [Fabric UI](https://github.com/fabric-ui/core)
+  > Biblioteca de componentes para ReactJS construídos com foco na customização e desempenho.
+- [Fabric UI - Markdown](https://github.com/fabric-ui/markdown):
+  > Componente React para pre-processamento e exibição de Markdown. (Atualmente em uso para esse markdown na minha
+  página)
+
 ---
 
+### Experiência
+
+- Pleno em ReactJS
+- Desenvolvedor full-stack na Agência Espacial Brasileira (AEB)
+    - Projeto SIS-AEB
+    - Projeto Ramais
+    - Projeto SAP
+
 ### Contato
+
 - **Email**: gustavomicaelbarbosa@gmail.com
-- **Discord**: morshu_non_rtx#8805
