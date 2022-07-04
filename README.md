@@ -1,6 +1,6 @@
 <h1 align = "center">Olá, sou <a href="https://facobackup-profile.vercel.app/">Gustavo Roque</a></h1>
 <p align = "center">
-  Desenvolvedor web, programador gráfico e estudante de <b>engenharia da computação</b> no 7 semestre.
+  Desenvolvedor web, programador gráfico e estudante de <b>engenharia da computação</b>.
 </p>
 
 ---
@@ -10,11 +10,18 @@
 - Estudante de engenharia da computação no 6 período
 - Desenvolvedor web full-stack
 - Trabalho principalmente com:
-    - Javascript + ***ReactJS*** e ***ElectronJS***
-    - Python + ***flask*** e ***Django***
-    - ***OpenGL***/***WebGL***
+  - Linguagens
+    - Javascript 
+    - Python
+  - Frameworks, APIs e sistemas:
+    - React
+    - WebGL
+    - ElectronJS
+    - NodeJS
+    - Flask e SQLalchemy
+    - Django
     - Linux
-- Entusiasta de renderização 3D e programador gráfico
+    - Windows
 
 ---
 
@@ -78,19 +85,26 @@
 - [Fabric UI](https://github.com/fabric-ui/core)
   > Biblioteca de componentes para ReactJS construídos com foco na customização e desempenho.
 - [Fabric UI - Markdown](https://github.com/fabric-ui/markdown):
-  > Componente React para pre-processamento e exibição de Markdown. (Atualmente em uso para esse markdown na minha
-  página)
-
+  > Componente React para pre-processamento e exibição de Markdown. (Atualmente em uso para esse markdown na minha página)
+  
 ---
 
-### Experiência
-
-- Pleno em ReactJS
-- Desenvolvedor full-stack na Agência Espacial Brasileira (AEB)
-    - Projeto SIS-AEB
-    - Projeto Ramais
-    - Projeto SAP
-
+### Experiência 
+- Desenvolvimento full-stack com:
+  - React / NextJS
+  - Django / flask
+  - Linux utilizando shell e powershell com windows server
+  
+### Projetos
+- AEB
+  - SIS-AEB: Sistema de gerênciamento de colaboradores.
+  - Ramais: Sistema robusto para pesquisa de colaboradores.
+  - VMs: Coleta e organização de VMs do hyperV
+- Solo:
+  - Fabric-UI: Biblioteca para componentes React.
+  - Fabric-UI Markdown: Processador markdown para React.
+  - Projection Engine: Motor gráfico e interface de editor para cenas 3D
+  - Projection-Demo: Demostração de rasterização utilizando API canvas 2D do HTML
+  
 ### Contato
-
 - **Email**: gustavomicaelbarbosa@gmail.com
