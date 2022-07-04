@@ -5,26 +5,6 @@
 
 ---
 
-## Sobre mim:
-
-- Estudante de engenharia da computação no 6 período
-- Desenvolvedor web full-stack
-- Trabalho principalmente com:
-  - Linguagens
-    - Javascript 
-    - Python
-  - Frameworks, APIs e sistemas:
-    - React
-    - WebGL
-    - ElectronJS
-    - NodeJS
-    - Flask e SQLalchemy
-    - Django
-    - Linux
-    - Windows
-
----
-
 ### Github:
 
 <table>
@@ -38,7 +18,25 @@
 </tr>
 </table>
 
+---
 
+## Sobre mim:
+
+- Estudante de engenharia da computação
+- Desenvolvedor web focado em APIs REST e frontends  
+- Trabalho principalmente com:
+  - Linguagens
+    - Javascript 
+    - Python
+  - Frameworks, APIs e sistemas:
+    - React
+    - WebGL
+    - ElectronJS
+    - NodeJS
+    - Flask e SQLalchemy
+    - Django
+    - Linux
+    - Windows
 
 --- 
 
