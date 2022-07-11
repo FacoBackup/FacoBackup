@@ -43,16 +43,7 @@
 ### Linguagens e ferramentas:
 
 <table>
-  <td>
-    <img align="center" alt="OpenGL" width="40px" src="https://github.com/facobackup/facobackup/blob/main/opengl.png?raw=true"/>
-  </td>
-  <td>
-    <img align="center" alt="WebGL" width="40px" src="https://github.com/facobackup/facobackup/blob/main/webgl.png?raw=true"/>
-  </td>
-  <td>
-    <img align="center" alt="Webassembly" width="40px" src="https://github.com/facobackup/facobackup/blob/main/wasm.png?raw=true"/>
-  </td>
-  <td>
+ <td>
     <img align="center" alt="Javascript" width="40px" src="https://github.com/facobackup/facobackup/blob/main/js.png?raw=true"/>
   </td>
   <td>
@@ -62,6 +53,14 @@
     <img align="center" alt="Electron" width="40px" src="https://github.com/facobackup/facobackup/blob/main/electron.png?raw=true"/>
   </td>
   <td>
+    <img align="center" alt="Vue" width="40px" src="https://github.com/facobackup/facobackup/blob/main/vue.png?raw=true"/>
+  </td>
+
+  <td>
+    <img align="center" alt="Webassembly" width="40px" src="https://github.com/facobackup/facobackup/blob/main/wasm.png?raw=true"/>
+  </td>
+ 
+  <td>
     <img align="center" alt="Python" width="40px" src="https://github.com/facobackup/facobackup/blob/main/py.png?raw=true"/>
   </td>
   <td>
@@ -69,6 +68,10 @@
   </td>
   <td>
     <img align="center" alt="Linux" width="40px" src="https://github.com/facobackup/facobackup/blob/main/linux.png?raw=true"/>
+  </td>
+
+  <td>
+    <img align="center" alt="WebGL" width="40px" src="https://github.com/facobackup/facobackup/blob/main/webgl.png?raw=true"/>
   </td>
 </table>
 
