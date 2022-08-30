@@ -20,8 +20,9 @@
 
 --- 
 
-## Highlight
-Teste a última versão da [Projection Engine (v3.1.1-alpha)](https://github.com/projection-engine/editor/releases/tag/v3.1.1-alpha)
+## Highlight - [Projection Engine v3.2.0-alpha](https://github.com/projection-engine/editor/releases/tag/v3.2.0-alpha)
+![Sample screenshot](https://github.com/projection-engine/.github/blob/main/development/gizmo-2.0.png?raw=true)
+
 
 ---
 
