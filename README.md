@@ -20,9 +20,8 @@
 
 --- 
 
-## Highlight - [Projection Engine v3.2.0-alpha](https://github.com/projection-engine/editor/releases/tag/v3.2.0-alpha)
-![Sample screenshot](https://github.com/projection-engine/.github/blob/main/development/gizmo-2.0.png?raw=true)
-
+## Highlight - [Projection Engine v4.1.1-alpha](https://github.com/projection-engine/editor/releases/tag/v4.1.1-alpha)
+![image](https://raw.githubusercontent.com/projection-engine/.github/main/v2.4.0-alpha/v4.0.0/sample2.png)
 
 ---
 
