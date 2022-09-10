@@ -87,7 +87,7 @@
 - [Demo de rasterização](https://engine-demo.vercel.app/)
   > Projeto utilizando API Canvas 2D do HTML para rasterizar modelos 3D simples.
 - [Projection Engine](https://github.com/projection-engine)
-  > Motor gráfico completo em desenvolvimento utilizando ReactJS + ElectronJS e WebGL2.
+  > Motor gráfico e editor utilizando Svelte + ElectronJS e WebGL2.
 - [Fabric UI](https://github.com/fabric-ui/core)
   > Biblioteca de componentes para ReactJS construídos com foco na customização e desempenho.
 - [Fabric UI - Markdown](https://github.com/fabric-ui/markdown):
