@@ -19,7 +19,7 @@
 </table>
 
 --- 
-### Highlight: [Projection Engine v5.1.0-alpha](https://github.com/projection-engine/editor/releases/tag/v5.1.0-alpha)
+### Highlight: [Projection Engine v5.7.0-alpha](https://github.com/projection-engine/editor/releases/tag/v5.7.0-alpha)
 <table>
     <tr>
         <th>
