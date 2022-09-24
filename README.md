@@ -19,17 +19,42 @@
 </table>
 
 --- 
-### Highlight: [Projection Engine v5.7.0-alpha](https://github.com/projection-engine/editor/releases/tag/v5.7.0-alpha)
+### Highlight: [Projection Engine v5.8.1-alpha](https://github.com/projection-engine/editor/releases/tag/v5.8.0-alpha)
 <table>
     <tr>
         <th>
-           <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v2.4.0-alpha/v4.0.0/v5.1.0/v5.1.0-sample1.png"/> 
+          SSGI Before 
         </th>
         <th>
-           <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v2.4.0-alpha/v4.0.0/v5.1.0/v5.1.0-sample2.png.png"/> 
+          SSGI After 
+        </th>
+    </tr>
+    <tr>
+        <th>
+           <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-BEFORE.png"/> 
+        </th>
+        <th>
+          <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-NOW.png"/>  
+        </th>
+    </tr>
+  <tr>
+        <th>
+           SSGI ON 
+        </th>
+        <th>
+           SSGI OFF 
+        </th>
+    </tr>
+    <tr>
+        <th>
+           <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-ON.png"/> 
+        </th>
+        <th>
+          <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-OFF.png"/>  
         </th>
     </tr>
 </table>
+
 
 ---
 
