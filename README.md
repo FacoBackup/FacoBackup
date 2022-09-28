@@ -1,4 +1,4 @@
-#### Hi there, I am [Gustavo Roque](https://www.linkedin.com/in/gustavo-roque-ab85b4154/)
+# Hi there, I am [Gustavo Roque](https://www.linkedin.com/in/gustavo-roque-ab85b4154/)
 <b>I am a Web developer, graphics programmer from Brazil and currently on college studying computer engineering.</b>
 
 
