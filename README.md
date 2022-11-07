@@ -3,7 +3,8 @@
 
 
 ---
-> ![](https://github-readme-streak-stats.herokuapp.com/?user=facobackup&theme=dark&hide_border=false)<br/>
+> ![](https://github-readme-streak-stats.herokuapp.com/?user=facobackup&theme=dark&hide_border=false)
+
 > <img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacoBackup&layout=compact&theme=material-palenight&langs_count=12" />
  
 > <img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api?username=FacoBackup&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
