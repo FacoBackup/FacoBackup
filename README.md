@@ -9,43 +9,44 @@
  
 > <img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api?username=FacoBackup&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
  
---- 
-### Highlight: [Projection Engine v6.1.0-alpha](https://github.com/projection-engine/editor/releases/tag/v6.0.0-alpha)
+
+## Highlight: [Projection Engine](https://github.com/projection-engine)
+
+---
 <table>
     <tr>
         <th>
-          SSGI Before 
+          SSGI OFF 
         </th>
         <th>
-          SSGI After 
-        </th>
-    </tr>
-    <tr>
-        <th>
-           <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-BEFORE.png"/> 
-        </th>
-        <th>
-          <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-NOW.png"/>  
-        </th>
-    </tr>
-  <tr>
-        <th>
-           SSGI ON 
-        </th>
-        <th>
-           SSGI OFF 
+          SSGI ON 
         </th>
     </tr>
     <tr>
         <th>
-           <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-ON.png"/> 
+           <img src="https://github.com/projection-engine/.github/blob/main/SSGI_BEFORE.png?raw=true"/> 
         </th>
         <th>
-          <img src="https://raw.githubusercontent.com/projection-engine/.github/main/v5.8.0/SSGI-OFF.png"/>  
+          <img src="https://github.com/projection-engine/.github/blob/main/SSGI%20+%20SSAO.png?raw=true"/>  
         </th>
     </tr>
 </table>
+<small><a href="https://github.com/Vinc3r/cornellBox">Cornell Box by Vinc3r</a></small>
 
+---
+
+<table>
+    <tr>
+        <th>
+           New SSAO pipeline
+        </th>
+    </tr>
+    <tr>
+        <th>
+          <img src="https://github.com/projection-engine/.github/blob/main/SSAO-FIXED.png?raw=true"/>  
+        </th>
+    </tr>
+</table>
 
 --- 
 
