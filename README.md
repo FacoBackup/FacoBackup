@@ -1,15 +1,6 @@
 # Hi there, I am [Gustavo Roque](https://www.linkedin.com/in/gustavo-roque-ab85b4154/)
 <b>I am a Web developer, graphics programmer from Brazil and currently on college studying computer engineering.</b>
 
-
----
-> ![](https://github-readme-streak-stats.herokuapp.com/?user=facobackup&theme=dark&hide_border=false)
-
-> <img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FacoBackup&layout=compact&theme=material-palenight&langs_count=12" />
- 
-> <img height="100%" alt="Gustavo Micael Barbosa Roque" src="https://github-readme-stats.vercel.app/api?username=FacoBackup&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
- 
-
 ## Highlight: [Projection Engine](https://github.com/projection-engine)
 
 ---
