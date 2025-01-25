@@ -2,12 +2,18 @@
 <table>
     <tr>
         <th>
-          Deferred shading
+          Path traced DI
+        </th>
+        <th>
+          Path traced emissive surfaces
         </th>
     </tr>
     <tr>
         <th>
-           <img src="https://github.com/FacoBackup/metal-engine/blob/main/samples/deferred-shading.png"/> 
+           <img src="https://github.com/FacoBackup/metal-engine/blob/main/samples/Screenshot%202025-01-25%20at%2012.17.32.png"/> 
+        </th>
+        <th>
+           <img src="https://github.com/FacoBackup/metal-engine/blob/main/samples/Screenshot%202025-01-25%20at%2012.12.46.png"/> 
         </th>
     </tr>
 </table>
