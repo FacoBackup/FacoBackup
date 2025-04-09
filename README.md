@@ -1,4 +1,4 @@
-# 👨‍💻 Gustavo Micael Barbosa Roque – Graphics program
+# Gustavo Micael Barbosa Roque 
 
 I'm a software engeneer from Brazil that works with a multitude of technologies. Some of those are C++, Java and JavaScript. 
 
