@@ -9,14 +9,15 @@ Welcome to my portfolio of real-time rendering engines. I focus on building perf
 ## 📊 [3D Spectrogram](https://github.com/FacoBackup/3D-Spectrogram)
 This C++ project visualizes the frequency and magnitude of an audio signal over time using a 3D spectrogram. It leverages the Short-Term Fourier Transform (STFT) to extract time-varying frequency components from an audio file and renders them in a spatial 3D plot using a sparse voxel octree.
 
-<table>
-  <tr>
-    <td><strong>sample of</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/FacoBackup/3D-Spectrogram/blob/main/samples/sample.gif" width="100%"/></td>
-  </tr>
-</table>
+
+
+---
+
+## 🎥 Demo
+
+![](https://github.com/FacoBackup/3D-Spectrogram/blob/main/samples/sample.gif)
+
+---
 
 | Spectrogram Overview | Magnitude Detail | Frequency Profile |
 |----------------------|------------------|-------------------|
