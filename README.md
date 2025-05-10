@@ -13,7 +13,7 @@ This C++ project visualizes the frequency and magnitude of an audio signal over 
 
 | Spectrogram Overview | Magnitude Detail | Frequency Profile |
 |----------------------|------------------|-------------------|
-| ![](samples/Screenshot%202025-05-04%20at%2014.46.33.png) | ![](samples/Screenshot%202025-05-04%20at%2014.48.56.png) | ![](samples/Screenshot%202025-05-04%20at%2014.50.23.png) |
+| ![](https://github.com/FacoBackup/3D-Spectrogram/samples/Screenshot%202025-05-04%20at%2014.46.33.png) | ![](https://github.com/FacoBackup/3D-Spectrogram/samples/Screenshot%202025-05-04%20at%2014.48.56.png) | ![](https://github.com/FacoBackup/3D-Spectrogram/samples/Screenshot%202025-05-04%20at%2014.50.23.png) |
 
 
 ## 🚀 [Metal Engine](https://github.com/FacoBackup/metal-engine)
