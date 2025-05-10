@@ -9,11 +9,18 @@ Welcome to my portfolio of real-time rendering engines. I focus on building perf
 ## 📊 [3D Spectrogram](https://github.com/FacoBackup/3D-Spectrogram)
 This C++ project visualizes the frequency and magnitude of an audio signal over time using a 3D spectrogram. It leverages the Short-Term Fourier Transform (STFT) to extract time-varying frequency components from an audio file and renders them in a spatial 3D plot using a sparse voxel octree.
 
-![](https://github.com/FacoBackup/3D-Spectrogram/blob/main/samples/sample.gif)
+<table>
+  <tr>
+    <td><strong>sample of</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/FacoBackup/3D-Spectrogram/blob/main/samples/sample.gif" width="100%"/></td>
+  </tr>
+</table>
 
 | Spectrogram Overview | Magnitude Detail | Frequency Profile |
 |----------------------|------------------|-------------------|
-| ![](https://github.com/FacoBackup/3D-Spectrogram/samples/Screenshot%202025-05-04%20at%2014.46.33.png) | ![](https://github.com/FacoBackup/3D-Spectrogram/samples/Screenshot%202025-05-04%20at%2014.48.56.png) | ![](https://github.com/FacoBackup/3D-Spectrogram/samples/Screenshot%202025-05-04%20at%2014.50.23.png) |
+| ![](https://github.com/FacoBackup/3D-Spectrogram/blob/main/samples/Screenshot%202025-05-04%20at%2014.46.33.png) | ![](https://github.com/FacoBackup/3D-Spectrogram/blob/main/samples/Screenshot%202025-05-04%20at%2014.48.56.png) | ![](https://github.com/FacoBackup/3D-Spectrogram/blob/main/samples/Screenshot%202025-05-04%20at%2014.50.23.png) |
 
 
 ## 🚀 [Metal Engine](https://github.com/FacoBackup/metal-engine)
