@@ -1,6 +1,6 @@
 # Gustavo Micael Barbosa Roque 
 
-I'm a software engeneer from Brazil that works with a multitude of technologies. Some of those are C++, Java and JavaScript. 
+I'm a software engineer from Brazil that works with a multitude of technologies. Some of those are C++, Java and JavaScript. 
 
 Welcome to my portfolio of real-time rendering engines. I focus on building performant, visually rich systems with modern graphics techniques. Below are some of my main projects with real-time rendering demos and experimental features.
 
