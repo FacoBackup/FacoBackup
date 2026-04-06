@@ -74,6 +74,12 @@ A real-time renderer implementing screen-space global illumination (SSGI), SSAO,
 
 ---
 
+## [Singular Studio IDE](https://github.com/FacoBackup/singular-studio-2.0)
+Chrome plugin that completly rewrites old UI rendered with apache wicket by the low-code application Singular Studio
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/7b33a2fe-562e-4cc0-891c-f4c5c21461f3" />
+
+---
+
 ### 🛠️ Technologies
 - Vulkan, WebGL, GLSL, OpenGL
 - Path tracing, SDF ray marching, volumetric lighting
